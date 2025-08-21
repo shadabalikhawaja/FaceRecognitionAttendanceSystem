@@ -1,0 +1,7 @@
+﻿.env
+*.pem
+*.key
+client_secret*.json
+credentials.json
+token.json
+.ssh/
