@@ -25,7 +25,7 @@ FaceRecognitionAttendanceSystem is a project designed to automate attendance tra
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dg1198/FaceRecognitionAttendanceSystem.git
+   git clone https://github.com/shadabalikhawaja/FaceRecognitionAttendanceSystem.git
    ```
 
 2. **Navigate to the project directory**:
